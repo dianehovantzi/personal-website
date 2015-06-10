@@ -1,0 +1,128 @@
+
+<DOCTYPE! html>
+<head>
+	<meta char set="utf-8">
+	<title>Diane Hovantzi | Consultant</title>
+	<link rel="stylesheet" type="text/css" href="stylesheet.css">	
+	<link href="http://fonts.googleapis.com/css?family=Indie+Flower" rel="stylesheet" type="text/css">
+	<link href="http://fonts.googleapis.com/css?family=Scheherazade" rel="stylesheet" type="text/css">
+	<link href='http://fonts.googleapis.com/css?family=Peddana' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Shadows+Into+Light+Two' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Fascinate+Inline' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Lobster' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Bree+Serif' rel='stylesheet' type='text/css'>
+	<link href='http://fonts.googleapis.com/css?family=Abril+Fatface' rel='stylesheet' type='text/css'>
+</head>
+<body>
+<nav>
+	<ul>	
+		<a href="#home">HOME</a>&nbsp&nbsp&nbsp
+		<a href="#about">ABOUT</a>&nbsp&nbsp&nbsp
+		<a href="#resume">RESUME</a>&nbsp&nbsp&nbsp
+		<a href="#blog">BLOG</a>&nbsp&nbsp&nbsp
+		<a href="#contact">CONTACT</a>&nbsp&nbsp&nbsp
+		<a href="#portfolio">PORTFOLIO</a>&nbsp&nbsp&nbsp
+		<a href="#resources">RESOURCES</a>
+	</ul>
+</nav>
+<div class="name">
+
+	<a name="name"><h1>DIANE HOVANTZI</h1></a>
+			<img class="img-circle" src="Diane.jpg " alt="Diane" /> 
+
+	<h3>Consultant and Web Developer</h3>
+</div>
+
+<div class="about">
+
+	<a name="about"><h2>About Diane/Me</h2></a>
+		
+		<img class="img-circle" src="Diane.jpg " alt="Diane" /> 
+		
+		<div id="bio"
+		<br />
+		<p>I am an IT Consultant currently based in Chicago. Although I am adept at analysis, my desire is to create. I like to learn new technical skills to build web apps and mobile apps that help businesses meet their goals. </p>
+		
+		<p>As a life long learner, I am constantly learning by taking advantage of courses found online from providers such as <a href="http://www.skillcrush.com" target="_blank">Skillcrush</a>, <a href="http://www.udacity.com" target="_blank">Udacity</a>, <a href="http://www.teamtreehouse.com" target="_blank">Team TreeHouse</a> and <a href="http://www.lynda.com" target="_blank">Lynda</a>.</p>
+		
+		<p> I'm actively involved in Chicago's startup community; I interned for the incubator The Founder Institute as well as was one of the first team members of a startup that sourced local products.</p>
+
+	
+		<p>I graduated in 2013 with a B.S. in MIS.</p>
+		</div>
+</div>
+
+<div class="resume">
+
+	<h2>Resume</h2>
+<!-- insert captcha -->
+<a name="resume"><embed src="test_resume.pdf" width="750" height="900"></a>
+</div>
+
+<div class="blog">
+	<a name="blog"><h2>Blog</h2></a>
+
+
+</div>
+
+<div class="contact">
+	<a name="contact"><h2>Contact</h2></a>
+		
+		<form action="index.html" method="post">
+		<h1>Contact Me</h1>
+
+			<label for="name">Name:</label>
+			<input type="text" id="name" name="user_name"><br /><br />
+			
+			<label for="mail">Email:</label>
+			<input type="email" id="mail" name="user_email"><br /><br />
+
+			<label for="message">Message:</label><br />
+			<textarea id="message" name="message" placeholder="Enter your message here." rows="10" cols="30">
+			</textarea><br /><br />
+		
+		<button type="submit">Submit</button>
+	
+	</form>
+		
+		<a href="https://www.linkedin.com/in/dianehovantzi" target="_blank"><img class="icon" src="linkedin_icon.jpg" alt="LinkedIn" /></a>
+		<a href="https://github.com/dianehovantzi"  target="_blank"><img class="icon" src="github_icon.jpg" alt="GitHub" /></a>
+		<a href="https://www.twitter.com/dianehovantzi"  target="_blank"><img class="icon" src="twitter_icon.png" alt="Twitter" /></a>
+		<a href="mailto:diane.hovantzi@gmail.com"  ><img class="icon" src="email_icon.png" alt="Email" /></a>
+</div>
+
+<div class="portfolio">
+<h2>Portfolio</h2>
+<br />
+<a name="portfolio"><p>Coming soon!</p></a>
+</div>
+
+
+<div class="resources">
+
+<h2>Resources</h2>
+
+<p> The following are my recommended resources for getting involved in startups, learning web development, reading about fitness, etc.</p>
+
+<ul>
+	<li><a href=" ">Team Treehouse</a></li>
+	<li><a href=" ">Skillcrush</a></li>
+	<li><a href=" ">Built in Chicago</a></li>
+	<li><a href=" ">Angel List</a></li>
+	<li><a href=" "></a></li>
+	<li><a href=" "></a></li>
+	<li><a href=" ">Greatist</a></li>
+</ul>
+
+</div>
+
+<footer>Copyright 2015 Diane Hovantzi</footer>
+</body>
+</html>
+
+
+
+
+
+
